@@ -6,14 +6,14 @@ Low cost ultrasonic radar design, using arduino and the Tinkercad platform.
 
 ## Components used in the project
 
-|Amount  |      Component      |  
-|----------|:-------------:|------:|
-| 1 |  Arduino Uno R3 | 
-| 1 |    LCD 16x2   |
-| 1 | 10 kΩ Potentiometer| 
-| 1 |  220 Ω Resistor | 
-| 1 |    Micro servo   |
-| 1 | Ultrasonic distance sensor | 
+| Amount  | Component |
+| ------------- | ------------- |
+| 1  | Arduino Uno R3  |
+| 1  | LCD 16x2  |
+| 1  | 10 kΩ Potentiometer  |
+| 1  | 220 Ω Resistor  |
+| 1  | Micro servo  |
+| 1  | Ultrasonic distance sensor  |
 
 ## Radar Scheme
 
